@@ -1,6 +1,6 @@
 # ThreeFourteen QuickService
 
-Create an (opinionated) ASP.NET Core 3.0 service... quickly.
+Create an (opinionated) ASP.NET Core API service quickly.
 
 ## Intro
 
